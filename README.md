@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahe2809
+- 👋 Hi, I’m @Mahe
 - 👀 I’m interested in Web development and interface designing and experience developments
 - 🌱 I’m currently learning UI/UX at TU Dublin
 <!-- - 💞️ I’m looking to collaborate on ... -->
